@@ -27,9 +27,9 @@ clean-venv: ## Clean Python venv
 
 clean-temp: ## Clean temporary files and caches
 	@echo "🧹 Cleaning temp files..."
-	@rm -rf temp/*.pdf
-	@rm -rf temp/*.csv
+	@find temp -mindepth 1 -not -path 'temp/.gitkeep' -exec rm -rf {} +
 	@echo "Cleanup complete!"
+
 
 export: ## Export current venv packages to requirements.txt
 	@echo "📦 Exporting packages from .venv to requirements.txt..."
@@ -86,6 +86,22 @@ pdfs: ## Convert all Jupyter notebooks in the scripts/ folder to PDF and save in
 	@echo ""
 	@echo "🎉 All notebooks converted to PDF!"
 	@echo "📂 PDFs saved in temp/ directory"
+
+py: ## Convert all Jupyter notebooks in the scripts/ folder to .py and save in temp/
+	@echo "🐍 Converting all Jupyter notebooks to Python files..."
+	@make clean-temp
+	@set -e; \
+	for notebook in scripts/*.ipynb; do \
+		if [ -f "$$notebook" ]; then \
+			notebook_name=$$(basename "$$notebook" .ipynb); \
+			echo "🔄 Converting $$notebook_name.ipynb to Python..."; \
+			jupyter nbconvert --to python "$$notebook" --output-dir temp/ || { echo "❌ Error converting $$notebook"; exit 1; }; \
+			echo "✅ $$notebook_name.py created successfully"; \
+		fi; \
+	done
+	@echo ""
+	@echo "🎉 All notebooks converted to Python files!"
+	@echo "📂 Python files saved in temp/ directory"
 
 # Run all scripts in the scripts/ folder
 run-scripts: ## Run all Python scripts from clean slate, stop on any error

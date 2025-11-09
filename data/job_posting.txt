@@ -1,0 +1,39 @@
+About the job
+We build systems that allow billions of people all over the world to connect and communicate using whatever devices they have available. Our researchers and engineers are constant innovators as they design and build scalable, fast, reliable, and efficient systems. Moreover, fast evolving social apps and highly dynamic social workloads present many unique research opportunities. From distributed systems, to data centers, hardware, storage, mobile and beyond, the entire Meta platform is our lab for research, development, and innovation.
+
+As a PhD Intern at Meta, you will help build the systems behind Meta’s products, create web applications that reach millions of people, build high volume servers and be a part of a team that’s working to help connect people around the globe. You will have a keen interest in relevant engineering fields, including (but not limited to) machine learning and artificial intelligence, distributed software systems, storage systems, data warehousing and analytics, database systems, operating systems, networking systems, programming languages, compilers & runtime systems, security & privacy, cryptography, and mobile systems.
+
+As part of our hiring process, PhD interns are matched to a relevant team based on their experience and interests.
+
+This internship has a minimum twelve (12) week duration with 2024 start dates only.
+
+Software Engineer Intern, Systems and Infrastructure (PhD) Responsibilities:
+
+- Build highly-scalable software systems using a wide variety of languages such as C++, Java, JavaScript, PHP, SQL, OCAML, and Python with a high degree of autonomy
+- Design flexible APIs for Meta product teams developing applications for web and mobile
+- Proactively identify and drive changes as needed for assigned codebase, product area and/or systems
+- Perform specific responsibilities which vary by team
+
+Minimum Qualifications:
+
+- Currently has, or is in the process of obtaining, PhD in Computer Science, Computer Engineering, or relevant technical field
+- Research and/or work experience in Algorithms, Architecture, Compilers, Databases, Data Mining, Distributed Systems, Mobile, Networking, Operating Systems, Programming Languages, Security, Cryptography, or Storage
+- Experience in systems software or algorithms
+- Experience coding in C++, Java, PHP or Python
+- Interpersonal experience: cross-group and cross-culture collaboration
+- Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment
+
+Preferred Qualifications:
+
+- Intent to return to degree-program after the completion of the internship/co-op
+- Demonstrated software engineer experience via an internship, work experience, coding competitions, or PhD papers
+- Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as first-authored publications at leading workshops or conferences
+- Demonstrated creativity and quick problem solving capabilities
+
+About Meta:
+
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

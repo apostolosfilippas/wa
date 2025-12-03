@@ -12,11 +12,13 @@ botocore==1.42.1
 cachetools==6.2.2
 certifi==2025.11.12
 cffi==2.0.0
+cfgv==3.4.0
 charset-normalizer==3.4.4
 click==8.1.8
 cohere==5.20.0
 colorama==0.4.6
 cryptography==46.0.3
+distlib==0.4.0
 distro==1.9.0
 dnspython==2.7.0
 docker==7.1.0
@@ -46,6 +48,7 @@ httptools==0.7.1
 httpx==0.28.1
 httpx-sse==0.4.0
 huggingface_hub==1.1.7
+identify==2.6.15
 idna==3.11
 importlib_metadata==8.7.0
 invoke==2.2.1
@@ -64,6 +67,7 @@ MarkupSafe==3.0.3
 mdurl==0.1.2
 mistralai==1.9.11
 nexus-rpc==1.1.0
+nodeenv==1.9.1
 numpy==2.0.2
 openai==2.8.1
 opentelemetry-api==1.38.0
@@ -76,6 +80,8 @@ opentelemetry-semantic-conventions==0.59b0
 packaging==25.0
 pandas==2.3.3
 patsy==1.0.2
+platformdirs==4.4.0
+pre_commit==4.3.0
 prompt_toolkit==3.0.52
 protobuf==5.29.5
 psycopg==3.2.13
@@ -129,6 +135,7 @@ tzdata==2025.2
 urllib3==1.26.20
 uvicorn==0.38.0
 uvloop==0.22.1
+virtualenv==20.35.4
 watchfiles==1.1.1
 wcwidth==0.2.14
 websockets==15.0.1

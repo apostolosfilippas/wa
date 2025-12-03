@@ -66,7 +66,7 @@ format: ## Run black on all Python files
 
 pre-commit-run: ## Run pre-commit on all files
 	@echo "Running pre-commit on all files..."
-	@poetry run pre-commit run --all-files
+	@python3 -m pre_commit run --all-files
 
 ###############
 ##@🚀 User

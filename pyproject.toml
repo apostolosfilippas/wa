@@ -1,0 +1,54 @@
+[project]
+name = "wa"
+version = "0.1.0"
+description = "Web Analytics - Python for Web Data"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    # Core AI/LLM
+    "anthropic>=0.75.0",
+    "openai>=2.0.0",
+    "litellm>=1.0.0",
+    "mistralai>=1.0.0",
+    "google-genai>=1.0.0",
+    "cohere>=5.0.0",
+    "groq>=0.37.0",
+    # Pydantic ecosystem
+    "pydantic>=2.12.0",
+    "pydantic-ai-slim>=0.8.0",
+    # Web framework
+    "fastapi>=0.123.0",
+    "uvicorn>=0.38.0",
+    # Web scraping
+    "selenium>=4.0.0",
+    "beautifulsoup4>=4.0.0",
+    # Data processing
+    "numpy>=2.0.0",
+    "pandas>=2.3.0",
+    "scipy>=1.13.0",
+    "statsmodels>=0.14.0",
+    "scikit-learn>=1.0.0",
+    # Visualization
+    "matplotlib>=3.10.0",
+    "seaborn>=0.13.0",
+    # Text analytics
+    "nltk>=3.9.0",
+    # Workflow
+    "temporalio>=1.16.0",
+    # Database
+    "sqlalchemy>=2.0.0",
+    "psycopg[binary]>=3.2.0",
+    "alembic>=1.16.0",
+    # Utilities
+    "httpx>=0.28.0",
+    "python-dotenv>=1.2.0",
+    "rich>=14.0.0",
+    "typer>=0.20.0",
+    # Jupyter
+    "ipykernel>=6.0.0",
+    "jupyter>=1.0.0",
+    "nbconvert>=7.0.0",
+    # Dev tools
+    "pre-commit>=4.0.0",
+    "black>=24.0.0",
+]

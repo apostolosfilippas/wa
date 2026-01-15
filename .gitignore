@@ -1,5 +1,17 @@
-.DS_Store
-.venv/
-temp/*
-!*.gitkeep
+# Environment
 .env
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Temp files
+temp/*
+!temp/.gitkeep

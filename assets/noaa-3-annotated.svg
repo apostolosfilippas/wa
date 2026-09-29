@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="740" viewBox="0 0 1280 740" role="img" aria-labelledby="title desc">
+  <title id="title">The HTML inside a NOAA news article, with red teaching callouts</title>
+  <desc id="desc">A simplified article with class node-teaser contains a title div with a headline link, a time tag with a publication date, and a focus-areas div with category links. Red boxes and arrows label the article container, Text and Link, Date, and Type equals Focus areas. Intermediate wrapper tags and unrelated content are omitted.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#f20e0e"/>
+    </marker>
+  </defs>
+  <rect width="1280" height="740" rx="16" fill="#f4f7fb"/>
+  <text x="36" y="48" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#073b68">One NOAA article: the HTML we want</text>
+  <text x="36" y="78" font-family="Arial, sans-serif" font-size="16" fill="#4c6074">Simplified from the listing. Wrapper tags, image links, and part of the long URL are omitted.</text>
+  <rect x="30" y="101" width="1218" height="540" rx="10" fill="white" stroke="#b6c7d7" stroke-width="2"/>
+  <rect x="45" y="117" width="827" height="37" rx="6" fill="#dceaf7"/>
+  <g font-family="monospace" font-size="17" fill="#172b3e">
+    <text x="57" y="142">&lt;article class="... node-teaser"&gt;</text>
+    <text x="80" y="196">&lt;div class="title"&gt;</text>
+    <text x="105" y="229">&lt;a href="/news/weekend-noreaster-..."&gt;</text>
+    <text x="129" y="261">Weekend nor’easter likely to bring damaging winds, coastal flooding</text>
+    <text x="105" y="292">&lt;/a&gt;</text>
+    <text x="80" y="323">&lt;/div&gt;</text>
+    <text x="80" y="377">&lt;time datetime="2026-09-25T12:00:00Z"&gt;September 25, 2026&lt;/time&gt;</text>
+    <text x="80" y="431">&lt;div class="tags focus-areas"&gt;</text>
+    <text x="105" y="463">&lt;a href="/weather"&gt;Weather&lt;/a&gt;</text>
+    <text x="80" y="494">&lt;/div&gt;</text>
+    <text x="57" y="611">&lt;/article&gt;</text>
+  </g>
+  <g fill="none" stroke="#f20e0e" stroke-width="4">
+    <rect x="41" y="110" width="844" height="517" rx="3"/>
+    <rect x="73" y="173" width="792" height="163" rx="3"/>
+    <rect x="73" y="351" width="738" height="42" rx="3"/>
+    <rect x="73" y="407" width="514" height="101" rx="3"/>
+    <path d="M 914 141 L 887 141" marker-end="url(#arrow)"/>
+    <path d="M 914 254 L 867 254" marker-end="url(#arrow)"/>
+    <path d="M 914 372 L 813 372" marker-end="url(#arrow)"/>
+    <path d="M 914 458 L 589 458" marker-end="url(#arrow)"/>
+    <path d="M 889 685 Q 930 667 887 622" marker-end="url(#arrow)"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#f20e0e">
+    <text x="927" y="150">One article</text>
+    <text x="927" y="264">Text &amp; Link</text>
+    <text x="927" y="382">Date</text>
+    <text x="927" y="451">Type =</text>
+    <text x="927" y="489">Focus areas</text>
+    <text x="47" y="702">All the info we are looking for is inside here!!!</text>
+  </g>
+  <text x="80" y="552" font-family="Arial, sans-serif" font-size="17" fill="#4c6074">Search inside this article, not across the whole page!</text>
+  <text x="80" y="580" font-family="Arial, sans-serif" font-size="17" fill="#4c6074">The next article has its own title, date, and categories.</text>
+</svg>

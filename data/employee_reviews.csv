@@ -1,0 +1,61 @@
+Role,Place,Job_type,Department,Date,Overall_rating,work_life_balance,skill_development,salary_and_benefits,job_security,career_growth,work_satisfaction,Likes,Dislikes
+Software Development Engineer,New York,Full Time,Engineering,2025-01-02,4,1,1,1,1,3,2,Helpful teammates,Busy deadlines
+Data Analyst,Boston,Part Time,Analytics,2025-01-03,5,4,2,3,5,4,4,Flexible schedule,Not enough feedback
+Support Engineer,Seattle,Contract,Customer Support,2025-01-04,3,2,3,5,4,5,1,Interesting projects,Repetitive tasks
+Sales Associate,Austin,Internship,Sales,2025-01-05,2,5,4,2,3,1,3,Useful training,Unpredictable shifts
+Operations Manager,Chicago,Full Time,Operations,2025-01-06,4,3,5,4,2,2,5,Clear responsibilities,Limited promotion opportunities
+Product Manager,Remote,Part Time,Product,2025-01-07,5,1,1,1,1,3,2,Supportive manager,Slow internal processes
+Warehouse Associate,New York,Contract,Operations,2025-01-08,2,4,2,3,5,4,4,Helpful teammates,Busy deadlines
+HR Specialist,Boston,Internship,Human Resources,2025-01-09,4,2,3,5,4,5,1,Flexible schedule,Not enough feedback
+Marketing Analyst,Seattle,Full Time,Marketing,2025-02-02,3,5,4,2,3,1,3,Interesting projects,Repetitive tasks
+Supply Chain Analyst,,Part Time,Operations,2025-02-03,3,3,5,4,2,2,5,Useful training,Unpredictable shifts
+Finance Analyst,Chicago,Contract,Finance,2025-02-04,4,1,1,1,1,3,2,Clear responsibilities,Limited promotion opportunities
+Customer Service Associate,Remote,Internship,Customer Support,2025-02-05,2,4,2,3,5,4,4,Supportive manager,Slow internal processes
+Software Development Engineer,Boston,Part Time,Engineering,2025-02-06,3,3,5,3,5,3,2,Flexible schedule,Slow internal processes
+Data Analyst,Seattle,Contract,Analytics,2025-02-07,4,1,1,5,4,4,4,Interesting projects,Busy deadlines
+Support Engineer,Austin,Internship,Customer Support,2025-02-08,2,4,2,2,3,5,1,Useful training,Not enough feedback
+Sales Associate,Chicago,Full Time,Sales,2025-02-09,1,2,3,4,2,1,3,Clear responsibilities,Repetitive tasks
+Operations Manager,Remote,Part Time,Operations,2025-02-10,3,5,4,1,1,2,5,Supportive manager,Unpredictable shifts
+Product Manager,New York,Contract,Product,2025-02-11,4,3,5,3,5,3,2,Helpful teammates,Limited promotion opportunities
+Warehouse Associate,Boston,Internship,Operations,2025-02-12,1,1,1,5,4,4,4,Flexible schedule,Slow internal processes
+HR Specialist,Seattle,Full Time,Human Resources,2025-02-13,3,4,2,2,3,5,1,Interesting projects,Busy deadlines
+Marketing Analyst,Austin,Part Time,Marketing,2025-03-02,2,2,3,4,2,1,3,Useful training,Not enough feedback
+Supply Chain Analyst,Chicago,Contract,Operations,2025-03-03,2,5,4,1,1,2,5,Clear responsibilities,Repetitive tasks
+Finance Analyst,Remote,Internship,Finance,2025-03-04,3,3,5,3,5,3,2,Supportive manager,Unpredictable shifts
+Customer Service Associate,New York,Full Time,Customer Support,2025-03-05,1,1,1,5,4,4,4,Helpful teammates,Limited promotion opportunities
+Software Development Engineer,Seattle,Contract,Engineering,2025-03-06,4,5,4,5,4,3,2,Interesting projects,Limited promotion opportunities
+Data Analyst,Austin,Internship,Analytics,2025-03-07,5,3,5,2,3,4,4,Useful training,Slow internal processes
+Support Engineer,Chicago,Full Time,Customer Support,2025-04-02,3,1,1,4,2,5,1,Clear responsibilities,Busy deadlines
+Sales Associate,,Part Time,Sales,2025-04-03,2,4,2,1,1,1,3,Supportive manager,Not enough feedback
+Operations Manager,New York,Contract,Operations,2025-04-04,4,2,3,3,5,2,5,Helpful teammates,Repetitive tasks
+Product Manager,Boston,Internship,Product,2025-04-05,5,5,4,5,4,3,2,Flexible schedule,Unpredictable shifts
+Warehouse Associate,Seattle,Full Time,Operations,2025-04-06,2,3,5,2,3,4,4,Interesting projects,Limited promotion opportunities
+HR Specialist,Austin,Part Time,Human Resources,2025-04-07,4,1,1,4,2,5,1,Useful training,Slow internal processes
+Marketing Analyst,Chicago,Contract,Marketing,2025-04-08,3,4,2,1,1,1,3,Clear responsibilities,Busy deadlines
+Supply Chain Analyst,Remote,Internship,Operations,2025-04-09,3,2,3,3,5,2,5,Supportive manager,Not enough feedback
+Finance Analyst,New York,Full Time,Finance,2025-04-10,4,5,4,5,4,3,2,Helpful teammates,Repetitive tasks
+Customer Service Associate,Boston,Part Time,Customer Support,2025-04-11,2,3,5,2,3,4,4,Flexible schedule,Unpredictable shifts
+Software Development Engineer,Austin,Internship,Engineering,2025-04-12,5,2,3,2,3,3,2,Useful training,Unpredictable shifts
+Data Analyst,Chicago,Full Time,Analytics,2025-04-13,5,5,4,4,2,4,4,Clear responsibilities,Limited promotion opportunities
+Support Engineer,Remote,Part Time,Customer Support,2025-04-14,4,3,5,1,1,5,1,Supportive manager,Slow internal processes
+Sales Associate,New York,Contract,Sales,2025-04-15,3,1,1,3,5,1,3,Helpful teammates,Busy deadlines
+Operations Manager,Boston,Internship,Operations,2025-05-02,5,4,2,5,4,2,5,Flexible schedule,Not enough feedback
+Product Manager,Seattle,Full Time,Product,2025-05-03,5,2,3,2,3,3,2,Interesting projects,Repetitive tasks
+Warehouse Associate,Austin,Part Time,Operations,2025-05-04,3,5,4,4,2,4,4,Useful training,Unpredictable shifts
+HR Specialist,Chicago,Contract,Human Resources,2025-05-05,5,3,5,1,1,5,1,Clear responsibilities,Limited promotion opportunities
+Marketing Analyst,Remote,Internship,Marketing,2025-05-06,4,1,1,3,5,1,3,Supportive manager,Slow internal processes
+Supply Chain Analyst,New York,Full Time,Operations,2025-05-07,4,4,2,5,4,2,5,Helpful teammates,Busy deadlines
+Finance Analyst,Boston,Part Time,Finance,2025-05-08,5,2,3,2,3,3,2,Flexible schedule,Not enough feedback
+Customer Service Associate,Seattle,Contract,Customer Support,2025-05-09,3,5,4,4,2,4,4,Interesting projects,Repetitive tasks
+Software Development Engineer,,Full Time,Engineering,2025-05-10,4,4,2,4,2,3,2,Clear responsibilities,Repetitive tasks
+Data Analyst,Remote,Part Time,Analytics,2025-06-02,5,2,3,1,1,4,4,Supportive manager,Unpredictable shifts
+Support Engineer,New York,Contract,Customer Support,2025-06-03,3,5,4,3,5,5,1,Helpful teammates,Limited promotion opportunities
+Sales Associate,Boston,Internship,Sales,2025-06-04,2,3,5,5,4,1,3,Flexible schedule,Slow internal processes
+Operations Manager,Seattle,Full Time,Operations,2025-06-05,4,1,1,2,3,2,5,Interesting projects,Busy deadlines
+Product Manager,Austin,Part Time,Product,2025-06-06,5,4,2,4,2,3,2,Useful training,Not enough feedback
+Warehouse Associate,Chicago,Contract,Operations,2025-06-07,2,2,3,1,1,4,4,Clear responsibilities,Repetitive tasks
+HR Specialist,Remote,Internship,Human Resources,2025-06-08,4,5,4,3,5,5,1,Supportive manager,Unpredictable shifts
+Marketing Analyst,New York,Full Time,Marketing,2025-06-09,3,3,5,5,4,1,3,Helpful teammates,Limited promotion opportunities
+Supply Chain Analyst,Boston,Part Time,Operations,2025-06-10,3,1,1,2,3,2,5,Flexible schedule,Slow internal processes
+Finance Analyst,Seattle,Contract,Finance,2025-06-11,4,4,2,4,2,3,2,Interesting projects,Busy deadlines
+Customer Service Associate,Austin,Internship,Customer Support,2025-06-12,2,2,3,1,1,4,4,Useful training,Not enough feedback

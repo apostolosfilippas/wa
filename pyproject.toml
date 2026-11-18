@@ -55,4 +55,5 @@ dependencies = [
     # Dev tools
     "pre-commit>=4.0.0",
     "black>=24.0.0",
+    "openai-agents>=0.6.0",
 ]
